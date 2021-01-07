@@ -12,7 +12,6 @@ This is a basic Hello World program. The purpose of this project is to demonstra
 * Python 3.9.0 64-bit
 * Git / GitHub
 
-
 # Useful Websites
 
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
