@@ -15,3 +15,7 @@ This is a basic Hello World program. The purpose of this project is to demonstra
 # Useful Websites
 
 * [Visual Studio Code & GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
+
+* [Python Download Options](https://www.python.org/downloads/)
+
+* [Python Tutorial](https://www.w3schools.com/python/)
